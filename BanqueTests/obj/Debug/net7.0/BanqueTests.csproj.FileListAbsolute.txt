@@ -1,0 +1,5 @@
+/Users/user/Documents/Sira-Works/DIC3/C#/Codes/SN_DIC3/Banque/BanqueTests/obj/Debug/net7.0/BanqueTests.csproj.AssemblyReference.cache
+/Users/user/Documents/Sira-Works/DIC3/C#/Codes/SN_DIC3/Banque/BanqueTests/obj/Debug/net7.0/BanqueTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Sira-Works/DIC3/C#/Codes/SN_DIC3/Banque/BanqueTests/obj/Debug/net7.0/BanqueTests.AssemblyInfoInputs.cache
+/Users/user/Documents/Sira-Works/DIC3/C#/Codes/SN_DIC3/Banque/BanqueTests/obj/Debug/net7.0/BanqueTests.AssemblyInfo.cs
+/Users/user/Documents/Sira-Works/DIC3/C#/Codes/SN_DIC3/Banque/BanqueTests/obj/Debug/net7.0/BanqueTests.csproj.CoreCompileInputs.cache
